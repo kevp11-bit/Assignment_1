@@ -4,7 +4,7 @@ public class InputOutputPrototype{
 		//source of data
 		InputRequest WhereFrom = source;
 		
-		if(Delimiter == null || Delimiter.isEmpty()){ //if the user doesn't provide a delimiter, use this
+		if(delimiter == null || delimiter.isEmpty()){ //if the user doesn't provide a delimiter, use this
 			delimiter = "/";
 		}
 
