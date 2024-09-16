@@ -1,4 +1,4 @@
-public interface outputRequest{
+public interface OutputRequest{
 	//where to send data to
 
 }
