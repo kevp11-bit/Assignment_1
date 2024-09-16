@@ -1,5 +1,5 @@
 
-public class InputOutputPrototype{
+public class inputOutputPrototype{
 	public void getSources(inputRequest source, outputRequest destination, String delimiter){	//user submits input source, output destination, delimiter
 		//source of data
 		inputRequest whereFrom = source;
