@@ -1,5 +1,5 @@
 
-public interface compEngineReceiveInput {
+public interface CompEngineReceiveInput {
 	//receive input 
 
 }
