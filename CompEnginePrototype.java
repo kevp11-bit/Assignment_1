@@ -1,5 +1,5 @@
 
-public class compEnginePrototype {
+public class CompEnginePrototype {
 	public void circularPrimeComputation(compEngineReceiveInput cpInput ) {
 		
 		//compute if user input is circular prime
