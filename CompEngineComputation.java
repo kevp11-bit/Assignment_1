@@ -1,4 +1,4 @@
 
-public interface compEngineComputation {
+public interface CompEngineComputation {
 	//will do the computation for circular prime
 }
